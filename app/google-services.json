@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701784306981",
+    "project_id": "reportify-1c0f4",
+    "storage_bucket": "reportify-1c0f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701784306981:android:b4250d7fc841de52eb96cc",
+        "android_client_info": {
+          "package_name": "com.example.reportify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZQr8g2xHTmsXUAkDkM9KKTYfAg4He9CU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

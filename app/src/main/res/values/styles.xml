@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CircleImage">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">70dp</item>
+    </style>
+    <style name="AppTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="android:statusBarColor">@color/surface</item>
+    </style>
+
+    <!-- Headline -->
+    <style name="TextHeadline">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/on_surface</item>
+        <item name="android:fontFamily">@font/manrope_bold</item>
+    </style>
+
+    <style name="TextImportant">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/on_surface</item>
+        <item name="android:fontFamily">@font/manrope_bold</item>
+    </style>
+
+    <!-- Body -->
+    <style name="TextBody">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/on_surface</item>
+        <item name="android:fontFamily">@font/inter_18pt_regular</item>
+    </style>
+    <style name="TextDisplay">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textColor">@color/on_surface</item>
+        <item name="android:fontFamily">@font/manrope_bold</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Buttons -->
+    <style name="Widget.MyButton" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@null</item>
+    </style>
+
+    <!--Input Fields -->
+    <style name="RoundedInput" parent="ShapeAppearance.Material3.Corner.Medium">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+
+    <!-- Nav buttons-->
+    <style name="NavText">
+        <item name="android:textSize">11sp</item>
+        <item name="android:fontFamily">@font/inter_18pt_regular</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:letterSpacing">0.05</item>
+    </style>
+
+    <style name="NavIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/primary_container</item>
+    </style>
+
+    <style name="FabShape" parent="ShapeAppearance.Material3.Corner.ExtraLarge">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+</resources>
