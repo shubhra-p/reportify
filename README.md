@@ -67,10 +67,10 @@ Reportify is designed to remain functional without internet access.
 
 Add your app screenshots here after uploading images to a folder such as `assets/screenshots/`.
 
-![Home Screen](assets/screenshots/home-screen.png)
-![Complaint Submission](assets/screenshots/complaint-submission.png)
-![Provider Dashboard](assets/screenshots/provider-dashboard.png)
-![Complaint Tracking](assets/screenshots/complaint-tracking.png)
+![Home Screen](assets/screenshots/HomeScreen.png)
+![My Complaints](assets/screenshots/Mycomplaints.png)
+![Provider Listings](assets/screenshots/ProvidersListing.png)
+![User Profile](assets/screenshots/userStats.png)
 
 ## Project Structure
 
