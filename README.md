@@ -70,7 +70,7 @@ Add your app screenshots here after uploading images to a folder such as `assets
 <p align="center">
   <img src="assets/screenshots/HomeScreen.png" width="24%" />
   <img src="assets/screenshots/Mycomplaints.png" width="24%" />
-  <img src="assets/screenshots/ProvidersListing.png" width="24%" />
+  <img src="assets/screenshots/ProvidersListng.png" width="24%" />
   <img src="assets/screenshots/userStats.png" width="24%" />
 </p>
 
